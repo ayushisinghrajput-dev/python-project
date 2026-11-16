@@ -1,0 +1,19 @@
+Movie,Genre,Rating
+Inception,SciFi,8.8
+Titanic,Romance,7.9
+Interstellar,SciFi,8.6
+Movie,Genre,Rating
+Sholay,Action,10
+Movie,Genre,Rating
+Inception,SciFi,8.8
+Titanic,Romance,11
+Dangal,Drama,abc
+Movie,Genre,Rating
+Inception,SciFi,8.8
+Titanic,Romance,7.9
+Interstellar,SciFi,8.6
+SciFi: 8.70 | Romance: 7.90
+Best genre: SciFi
+Bar chart 'Genre-wise Average Rating'
+
+

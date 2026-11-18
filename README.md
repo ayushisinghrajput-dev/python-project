@@ -16,9 +16,7 @@ movie-rating-analyzer/
 │
 ├── movies.csv
 │
-├── movie_analyzer.py
-│
-├── requirements.txt
+├── One.py
 │
 ├── README.md
 │
@@ -27,7 +25,6 @@ movie-rating-analyzer/
 └── screenshots/
     ├── summary.png
     ├── genre_average.png
-    └── rating_distribution.png
 
 
 3. Repository file contents
@@ -97,7 +94,7 @@ The application uses Pandas for data processing and Matplotlib for graphical rep
 ```text
 movie-rating-analyzer/
 ├── movies.csv
-├── movie_analyzer.py
+├── One.py
 ├── requirements.txt
 ├── README.md
 ├── .gitignore

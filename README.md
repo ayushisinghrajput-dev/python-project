@@ -200,7 +200,7 @@ Python 3.9 or later recommended.
 Internet connection for the initial installation of the Python packages.
 Setup and run
 1. Download or clone this repository
-git clone https://github.com/YOUR-USERNAME/movie-rating-analyzer.git
+git clone https://github.com/ayushisinghrajput-dev/python.git
 cd movie-rating-analyzer
 If you downloaded the ZIP file, extract it and open a terminal in the extracted movie-rating-analyzer folder.
 2. (Recommended) Create a virtual environment
@@ -214,12 +214,12 @@ source .venv/bin/activate
 python -m pip install -r requirements.txt
 4. Run the application
 Windows:
-py movie_analyzer.py
+py One.py
 macOS / Linux:
-python3 movie_analyzer.py
-You can also run python movie_analyzer.py if python points to your Python 3 installation.
+python3 One.py
+You can also run python One.py if python points to your Python 3 installation.
 Dataset format
-Keep movies.csv in the same folder as movie_analyzer.py. The CSV file must have these column headers:
+Keep movies.csv in the same folder as One.py. The CSV file must have these column headers:
 Movie
 Genre
 Rating
@@ -262,7 +262,7 @@ Python 3.9 or later recommended.
 Internet connection for the initial installation of the Python packages.
 Setup and run
 1. Download or clone this repository
-git clone https://github.com/YOUR-USERNAME/movie-rating-analyzer.git
+git clone https://github.com/ayushisinghrajput-dev/python-project.git
 cd movie-rating-analyzer
 If you downloaded the ZIP file, extract it and open a terminal in the extracted movie-rating-analyzer folder.
 2. (Recommended) Create a virtual environment
@@ -276,12 +276,12 @@ source .venv/bin/activate
 python -m pip install -r requirements.txt
 4. Run the application
 Windows:
-py movie_analyzer.py
+py One.py
 macOS / Linux:
-python3 movie_analyzer.py
-You can also run python movie_analyzer.py if python points to your Python 3 installation.
+python3 One.py
+You can also run python One.py if python points to your Python 3 installation.
 Dataset format
-Keep movies.csv in the same folder as movie_analyzer.py. The CSV file must have these column headers:
+Keep movies.csv in the same folder as One.py. The CSV file must have these column headers:
 Movie
 Genre
 Rating
